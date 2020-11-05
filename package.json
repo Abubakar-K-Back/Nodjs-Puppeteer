@@ -1,0 +1,23 @@
+{
+  "name": "NodejsWebscrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cherio": "^1.0.0-rc.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.10.11",
+    "path": "^0.12.7",
+    "puppeteer": "^5.4.1",
+    "request": "^2.88.2"
+  }
+}
